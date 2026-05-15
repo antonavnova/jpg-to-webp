@@ -187,6 +187,7 @@ MIT License - смотри файл LICENSE для деталей.
 ## 👥 Команда
 
 Architecture & Design: Anton AV Nova (team Stitch In Da House)
+
 Platform Engineering: Сообщество разработчиков
 
 ```text
